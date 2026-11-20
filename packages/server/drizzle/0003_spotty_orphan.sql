@@ -1,1 +1,0 @@
-ALTER TABLE `sources` ADD `sub_url` text;

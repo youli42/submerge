@@ -1,1 +1,0 @@
-ALTER TABLE `channels` ADD `default_route` text DEFAULT 'proxy' NOT NULL;
